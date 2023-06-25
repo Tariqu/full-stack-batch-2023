@@ -1,0 +1,23 @@
+console.log("Hello world part 2");
+let myBtn = document.getElementById("btn");
+
+let myText = document.getElementById("txt");
+
+
+//  () => {} this is the function
+let count = 0;
+myBtn.addEventListener("click", () => {
+    count = count + 1;
+    console.log("I have been clicked", count, parseInt(myText.value))
+});
+
+// string and number
+
+// You can apply arithmatic operation only on number type
+// + ,  -, * 
+
+
+
+
+
+

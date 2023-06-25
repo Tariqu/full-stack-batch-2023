@@ -1,0 +1,16 @@
+body {
+    background-color: darkolivegreen;
+}
+
+.li-red {
+    background-color: red;
+}
+
+.li-bold {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+#uniuqe-name {
+    text-decoration: underline;
+}
