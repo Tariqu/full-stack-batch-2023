@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
+    width: 80vw;
+}
+
+.item {
+    background-color: darkmagenta;
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
