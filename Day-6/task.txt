@@ -1,0 +1,5 @@
+Find the difference between var, let, const
+
+Learn all the operator and find the difference among them
+
+WAP First division based on mark using switch case 
